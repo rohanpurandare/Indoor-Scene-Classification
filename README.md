@@ -19,3 +19,5 @@ We will be using the MIT Indoor Dataset2, Places3653 and SUN3974 datasets for tr
 Our comprehensive evaluation of the models after implementation will involve a thorough analysis with a set of well-established metrics. The chosen metrics include the confusion matrix, accuracy, precision, recall, and F1 score
 ### Rationale for Metrics
 The confusion matrix will provide a detailed breakdown of the model’s predictions, allowing us to discern true positives, true negatives, false positives, and false negatives. Accuracy will offer a general measure of the model’s correctness, while precision will focus on the accuracy of positive predictions. Recall, on the other hand, will emphasize the model’s ability to correctly identify all relevant instances. The F1 score, as a harmonic mean of precision and recall, will provide a balanced assessment of the model’s performance.
+
+_Please note: This was done in a group project with Shruti Goyal, Arnav Arora, and Harmya Bhatt_
